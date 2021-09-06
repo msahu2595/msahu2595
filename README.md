@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Sahu</h1>
-<h3 align="center">A Software Developer with 2 years of experience, specializing in web development.</h3>
+<h3 align="center">A Software Engineer with 2+ years of experience, specializing in web development.</h3>
 
-- 🌱 I’m currently learning **react-native animation, GCP, azure.**
+- 🌱 I’m currently learning **react-native animation.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/msahu2595](https://github.com/msahu2595)
 
-- 📝 I regularly write articles on [https://github.com/msahu2595](https://github.com/msahu2595)
+<!-- - 📝 I regularly write articles on [https://github.com/msahu2595](https://github.com/msahu2595) -->
 
 - 💬 Ask me about **react, graphql, react-native.**
 
