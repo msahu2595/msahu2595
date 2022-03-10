@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **msahu2595@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/msahu2595](https://github.com/msahu2595)
+- 📄 Know about my experiences [https://www.linkedin.com/in/msahu2595](https://www.linkedin.com/in/msahu2595)
 
 
 <h3 align="left">Languages and Tools:</h3>
