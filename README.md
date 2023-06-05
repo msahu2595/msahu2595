@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Sahu</h1>
-<h3 align="center">A Software Engineer with 2+ years of experience, specializing in web development.</h3>
+<h3 align="center">A Software Engineer with 3.5+ years of experience, specializing in web & mobile development.</h3>
 
 - 🌱 I’m currently learning **react-native animation.**
 
