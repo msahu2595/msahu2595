@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar Sahu</h1>
 <h3 align="center">A Software Engineer with 5+ years of experience, specializing in web & mobile development.</h3>
 
-- 🌱 I’m currently learning **react-native animation.**
+- 🌱 I’m currently learning **Gen AI.**
+
+- 📄 My Portfolio [https://www.manishsahu.in/](https://www.manishsahu.in/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/msahu2595](https://github.com/msahu2595)
 
